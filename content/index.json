@@ -2,5 +2,6 @@
   "template": "book",
   "author": "Scotasdasd",
   "title": "Pro Git",
-  "cover": "paper"
+  "cover": "paper",
+  "wasd": "wasd"
 }
