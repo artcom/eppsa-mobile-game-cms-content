@@ -1,7 +1,3 @@
 {
-  "template": "book",
-  "author": "Scotasdasd",
-  "title": "Pro Git",
-  "cover": "paper",
-  "wasd": "wasd"
+  "template": "game"
 }

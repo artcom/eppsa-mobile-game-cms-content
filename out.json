@@ -1,8 +1,0 @@
-{
-  "index": {
-    "template": "book",
-    "author": "Scott Chacon",
-    "title": "Pro Git",
-    "cover": "paper"
-  }
-}
