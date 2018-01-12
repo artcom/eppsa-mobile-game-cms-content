@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
-  "items": "",
+  "name": "Emergency",
+  "description": "Find the best technique of emergency propulsion",
+  "items": "[\"paddle\", \"life-jacket\", \"life-raft\"]",
   "template": "quest"
 }
