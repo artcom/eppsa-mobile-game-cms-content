@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
-  "items": "",
+  "name": "Connectors",
+  "description": "Find the best connection material for shipbuilding",
+  "items": "[           \"iron\",           \"steel\",           \"copper\"         ]",
   "template": "quest"
 }
