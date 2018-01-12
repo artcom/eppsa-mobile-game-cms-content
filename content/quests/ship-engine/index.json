@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
-  "items": "",
+  "name": "Ship-Engine",
+  "description": "Find the best technique of propulsion",
+  "items": "[\"linen-sailcloth\", \"cotton-sailcloth\", \"synthetic-fibers\"]",
   "template": "quest"
 }
