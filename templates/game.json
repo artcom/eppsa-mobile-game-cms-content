@@ -1,0 +1,17 @@
+{
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    }
+  ],
+  "children": [
+    "player",
+    "quest",
+    "item"
+  ]
+}
