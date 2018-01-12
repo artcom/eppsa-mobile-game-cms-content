@@ -1,3 +1,5 @@
 {
-  "template": "game"
+  "template": "game",
+  "name": "Shipbuilding",
+  "description": "King Jellybean calls for building a ship. Therefore the king commands his servants to investigate the best shipbuilding techniques, tools and materials of all civilizations to create the best ship construction."
 }
