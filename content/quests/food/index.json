@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
-  "items": "",
+  "name": "Food",
+  "description": "Find the best food for transit",
+  "items": "[\"hardtack\", \"dried-meat\", \"alcohol\", \"fruits-and-vegetables\"]",
   "template": "quest"
 }
