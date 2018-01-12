@@ -7,11 +7,10 @@
     {
       "name": "description",
       "type": "string"
+    },
+    {
+      "name": "items",
+      "type": "string"
     }
-  ],
-  "children": [
-    "players",
-    "quests",
-    "items"
   ]
 }
