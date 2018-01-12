@@ -1,4 +1,4 @@
 {
-  "quests": "",
+  "quests": "[\"material\", \"connectors\", \"protection\"]",
   "template": "player"
 }
