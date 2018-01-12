@@ -1,7 +1,7 @@
 {
   "fields": [
     {
-      "name": "author",
+      "name": "wasd",
       "type": "string"
     },
     {
