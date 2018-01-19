@@ -1,6 +1,6 @@
 {
   "name": "Protection",
   "description": "Find the best protection against wear of friction",
-  "items": "[\"hemp\", \"pine-tar\", \"resin\"]",
+  "items": "hemp, pine-tar, resin",
   "template": "quest"
 }
