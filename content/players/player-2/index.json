@@ -1,4 +1,4 @@
 {
-  "quests": "[\"ship-engine\", \"emergency\", \"food\"]",
+  "quests": "ship-engine, emergency, food",
   "template": "player"
 }
