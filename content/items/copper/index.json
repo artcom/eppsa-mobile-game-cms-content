@@ -1,5 +1,8 @@
 {
   "name": "Copper",
   "description": "Copper has been used since ancient times as a durable, corrosion resistant, and weatherproof architectural material. Roofs, flashings, rain gutters, downspouts, domes, spires, vaults, and doors have been made from copper for hundreds or thousands of years.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }
