@@ -1,5 +1,8 @@
 {
   "name": "Steel",
   "description": "Steel is an alloy of iron and other elements, primarily carbon. Because of its high tensile strength and low cost, it is a major component in buildings, infrastructure, tools, ships, automobiles, machines, appliances, and weapons.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }

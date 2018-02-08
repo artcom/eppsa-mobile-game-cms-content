@@ -1,5 +1,8 @@
 {
   "name": "Hardtack",
   "description": "Hardtack is inexpensive and long-lasting. It is used for sustenance in the absence of perishable foods, commonly during long sea voyages, land migrations, and military campaigns.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }

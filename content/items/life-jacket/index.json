@@ -1,5 +1,8 @@
 {
   "name": "Life Jacket",
   "description": "Fusce aliquam, metus sed porta elementum, dolor urna ornare magna, eget aliquet sem elit ac nibh. Nullam malesuada nec orci commodo pulvinar.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }

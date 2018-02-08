@@ -1,5 +1,8 @@
 {
   "name": "Dried meat",
   "description": "Even in 1938, Eric Newby found the diet on the tall ship Moshulu to consist almost entirely of salted meat. Moshulu's lack of refrigeration left little choice as the ship made voyages which could exceed 100 days passage between ports.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }

@@ -1,5 +1,8 @@
 {
   "name": "Fruits and vegetables",
   "description": "Fresh vegetables and citrus juice are the only substantial sources of vitamin C.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }

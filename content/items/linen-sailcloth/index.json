@@ -1,5 +1,8 @@
 {
   "name": "Linen Sailcloth",
   "description": "These natural fibers have poor resistance to rot, UV light and water absorption. Linen is stronger, but cotton is lighter. Linen was the traditional fiber of sails until it was supplanted by cotton during the 19th century.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }

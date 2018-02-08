@@ -1,5 +1,8 @@
 {
   "name": "Resin",
   "description": "Plant resins are valued for the production of varnishes, adhesives, and food glazing agents. They are also prized as raw materials for the synthesis of other organic compounds and provide constituents of incense and perfume.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }

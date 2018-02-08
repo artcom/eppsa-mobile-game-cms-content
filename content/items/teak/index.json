@@ -1,5 +1,8 @@
 {
   "name": "Teak",
   "description": "Teak's high oil content, high tensile strength and tight grain make it particularly suitable where weather resistance is desired. It is used in the manufacture of outdoor furniture and boat decks.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }
