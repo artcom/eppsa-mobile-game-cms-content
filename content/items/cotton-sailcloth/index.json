@@ -1,5 +1,8 @@
 {
   "name": "Cotton Sailcloth",
   "description": "As sail size grew linen was too heavy to be practical so cotton became more popular. Cotton did not substantially replace linen worldwide until the end of the age of sail; however, in some cases the strength of linen was preferred for some types of sails.",
-  "template": "item"
+  "template": "item",
+  "icon": {
+    "src": "70/appicon-70e27d9831a598c5f6adf724726058c1009cbb95.png"
+  }
 }
